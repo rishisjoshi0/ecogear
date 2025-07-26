@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ecogear-ai.vercel.app/sitemap.xml

@@ -1,0 +1,24 @@
+[
+  {
+    "name": "EcoTrek Backpack",
+    "sku": "ECO12345",
+    "price": 89.99,
+    "currency": "USD",
+    "availability": "InStock",
+    "url": "/products/ecotrek-backpack",
+    "description": "A durable backpack made from 100% recycled materials.",
+    "features": ["30L capacity", "Weather-resistant", "Hydration sleeve"],
+    "rating": 4.8
+  },
+  {
+    "name": "EcoFlask Bottle",
+    "sku": "ECO56789",
+    "price": 29.99,
+    "currency": "USD",
+    "availability": "InStock",
+    "url": "/products/ecoflask-bottle",
+    "description": "A 750ml insulated stainless steel bottle for travel.",
+    "features": ["Cold for 24h", "Hot for 12h", "BPA-free"],
+    "rating": 4.6
+  }
+]
